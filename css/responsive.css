@@ -1,8 +1,0 @@
-@media screen and (max-width:600px) {
-    .home .home_content{
-        display: grid;
-        grid-template-columns: 1fr;
-        grid-template-rows: 1fr;
-    }
-  
-  }
